@@ -3,33 +3,49 @@
   "WorkspaceRootPath": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\xml_parser\\src\\tinyxml2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\xml_parser\\src\\tinyxml2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\dependenses\\vcpkg\\installed\\x86-windows\\include\\box2d\\b2_contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinyxmlparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinystr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinystr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxml.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinyxml.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlerror.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinyxmlerror.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinyxmlparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\dependenses\\vcpkg\\installed\\x86-windows\\include\\box2d\\b2_contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlerror.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDF9CEA3-B08F-4441-82AA-D29842CFA85B}|SFMLTeach\\SFMLTeach.vcxproj|solutionrelative:SFMLTeach\\tinyxmlerror.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,7 +63,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "tinyxml2.h",
+              "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\xml_parser\\src\\tinyxml2.h",
+              "RelativeDocumentMoniker": "SFMLTeach\\xml_parser\\src\\tinyxml2.h",
+              "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\xml_parser\\src\\tinyxml2.h",
+              "RelativeToolTip": "SFMLTeach\\xml_parser\\src\\tinyxml2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:48:51.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tinystr.h",
+              "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.h",
+              "RelativeDocumentMoniker": "SFMLTeach\\tinystr.h",
+              "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.h",
+              "RelativeToolTip": "SFMLTeach\\tinystr.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:38:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tinystr.cpp",
+              "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.cpp",
+              "RelativeDocumentMoniker": "SFMLTeach\\tinystr.cpp",
+              "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinystr.cpp",
+              "RelativeToolTip": "SFMLTeach\\tinystr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T18:58:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tinyxml.h",
+              "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxml.h",
+              "RelativeDocumentMoniker": "SFMLTeach\\tinyxml.h",
+              "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxml.h",
+              "RelativeToolTip": "SFMLTeach\\tinyxml.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T18:53:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "xmemory",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xmemory",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xmemory",
@@ -58,17 +126,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "xtree",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree",
               "ViewState": "AgIAAOsCAAAAAAAAAAAswP4CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-19T18:28:39.238Z"
+              "WhenOpened": "2024-12-19T18:28:39.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "b2_contact.h",
               "DocumentMoniker": "D:\\Program Files\\dependenses\\vcpkg\\installed\\x86-windows\\include\\box2d\\b2_contact.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dependenses\\vcpkg\\installed\\x86-windows\\include\\box2d\\b2_contact.h",
@@ -80,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "tinyxmlparser.cpp",
               "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlparser.cpp",
               "RelativeDocumentMoniker": "SFMLTeach\\tinyxmlparser.cpp",
@@ -88,11 +157,12 @@
               "RelativeToolTip": "SFMLTeach\\tinyxmlparser.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T15:14:55.875Z"
+              "WhenOpened": "2024-12-19T15:14:55.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "tinyxmlerror.cpp",
               "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\tinyxmlerror.cpp",
               "RelativeDocumentMoniker": "SFMLTeach\\tinyxmlerror.cpp",
@@ -110,32 +180,33 @@
               "RelativeDocumentMoniker": "SFMLTeach\\level.h",
               "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.h",
               "RelativeToolTip": "SFMLTeach\\level.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-17T21:00:59.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "level.cpp",
               "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.cpp",
               "RelativeDocumentMoniker": "SFMLTeach\\level.cpp",
               "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\level.cpp",
               "RelativeToolTip": "SFMLTeach\\level.cpp",
-              "ViewState": "AgIAAPIAAAAAAAAAAAAgwA0BAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-17T21:00:54.878Z"
+              "WhenOpened": "2024-12-17T21:00:54.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\main.cpp",
               "RelativeDocumentMoniker": "SFMLTeach\\main.cpp",
               "ToolTip": "D:\\Documents\\Project_C\u002B\u002B\\teach\\Platformer\\SFMLTeach\\main.cpp",
               "RelativeToolTip": "SFMLTeach\\main.cpp",
-              "ViewState": "AgIAADQAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-17T20:57:27.386Z",
               "EditorCaption": ""

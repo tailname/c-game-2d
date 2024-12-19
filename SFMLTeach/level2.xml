@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="62" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="25">
- <editorsettings>
-  <export target="level2.xml" format="tmx"/>
- </editorsettings>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="62" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="26">
  <tileset firstgid="1" name="sorce" tilewidth="32" tileheight="32" tilecount="3844" columns="62">
   <image source="../../../FPSgame/Image/sorce.png" width="2000" height="2000"/>
  </tileset>
@@ -2532,5 +2529,6 @@
   <object id="22" name="enemy" type="entity" gid="1" x="625.333" y="358.667" width="32" height="32"/>
   <object id="23" name="enemy" type="entity" gid="1" x="1317.33" y="396" width="32" height="32"/>
   <object id="24" name="enemy" type="entity" gid="1" x="1758.67" y="393.333" width="32" height="32"/>
+  <object id="25" name="portal" gid="264" x="33.3333" y="384.667" width="32" height="88"/>
  </objectgroup>
 </map>

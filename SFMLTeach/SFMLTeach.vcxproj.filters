@@ -44,5 +44,8 @@
     <ClInclude Include="level.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="xml_parser\src\tinyxml2.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -6,6 +6,8 @@
 
 Object player;
 b2Body* playerBody;
+Object portal;
+b2Body* portalBody;
 
 
 std::vector<Object> coin;
@@ -72,9 +74,27 @@ int main()
 	}
 
 
-	
+	{
+		portal = lvl.GetObject("portal");
+		float scale_x = static_cast<float>(portal.rect.width) / tileSize.x;
+		float scale_y = static_cast<float>(portal.rect.height) / tileSize.y;
+		portal.sprite.setScale(scale_x, scale_y);
+		b2BodyDef bodyDef;
+		bodyDef.type = b2_staticBody;
+		float x = portal.rect.left + tileSize.x / 2 * (portal.rect.width / tileSize.x - 1);
+		float y = portal.rect.top + tileSize.y / 2 * (portal.rect.height / tileSize.y - 1);
+		bodyDef.position.Set(x,y);
+		portalBody = world.CreateBody(&bodyDef);
+		b2PolygonShape shape;
+		shape.SetAsBox(portal.rect.width / 2, portal.rect.height / 2);
+
+		portalBody->CreateFixture(&shape, 1.0f);
+	}
 
 	player = lvl.GetObject("player");
+	float scale_x = static_cast<float>(player.rect.width) / tileSize.x;
+	float scale_y = static_cast<float>(player.rect.height) / tileSize.y;
+	player.sprite.setScale(scale_x, scale_y);
 	b2BodyDef bodyDef;
 	bodyDef.type = b2_dynamicBody;
 	bodyDef.position.Set(player.rect.left, player.rect.top);
@@ -179,7 +199,7 @@ int main()
 		window.setView(view);
 
 		player.sprite.setPosition(pos.x, pos.y);
-
+		portal.sprite.setPosition(portalBody->GetPosition().x, portalBody->GetPosition().y);
 		for(int i = 0; i < coin.size(); i++)
 			coin[i].sprite.setPosition(coinBody[i]->GetPosition().x, coinBody[i]->GetPosition().y);
 
@@ -191,6 +211,7 @@ int main()
 		lvl.Draw(window);
 
 		window.draw(player.sprite);
+		window.draw(portal.sprite);
 
 		for(int i = 0; i < coin.size(); i++)
 			window.draw(coin[i].sprite);
