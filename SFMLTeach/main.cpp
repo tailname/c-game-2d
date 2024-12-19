@@ -6,8 +6,7 @@
 
 Object player;
 b2Body* playerBody;
-Object portal;
-b2Body* portalBody;
+
 
 std::vector<Object> coin;
 std::vector<b2Body*> coinBody;
@@ -20,7 +19,7 @@ int main()
 	srand(time(NULL));
 
 	Level lvl;
-	lvl.LoadFromFile("level1.xml");
+	lvl.LoadFromFile("level2.xml");
 
 
     b2Vec2 gravity(0.0f, 1.0f);
@@ -73,19 +72,7 @@ int main()
 	}
 
 
-	{
-		portal = lvl.GetObject("portal");
-		b2BodyDef bodyDef;
-		bodyDef.type = b2_dynamicBody;
-		bodyDef.position.Set(portal.rect.left, portal.rect.top);
-		bodyDef.fixedRotation = true;
-		portalBody = world.CreateBody(&bodyDef);
-		b2PolygonShape shape; shape.SetAsBox(portal.rect.width / 2, portal.rect.height / 2);
-		b2FixtureDef fixtureDef;
-		fixtureDef.shape = &shape;
-		fixtureDef.density = 1.0f; fixtureDef.friction = 0.3f;
-		portalBody->CreateFixture(&fixtureDef);
-	}
+	
 
 	player = lvl.GetObject("player");
 	b2BodyDef bodyDef;
@@ -101,16 +88,7 @@ int main()
 
 
 
-	portal = lvl.GetObject("portal");
-	b2BodyDef portalBodyDef;
-	portalBodyDef.type = b2_staticBody;
-	portalBodyDef.position.Set(portal.rect.left + tileSize.x / 2 * (portal.rect.width / tileSize.x - 1),
-		portal.rect.top + tileSize.y / 2 * (portal.rect.height / tileSize.y - 1));
-	portalBody = world.CreateBody(&portalBodyDef);
-	b2PolygonShape portalShape;
-	portalShape.SetAsBox(portal.rect.width / 2, portal.rect.height / 2);
-	portalBody->CreateFixture(&portalShape, 1.0f);
-
+	
 
 	sf::Vector2i screenSize(1920,1080);
 
